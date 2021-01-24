@@ -26,4 +26,4 @@ Generate Password Function {
 Conditional statements for all possible combinations.
 }
 
-LIVE PAGE: https://davidsjg.github.io/High-Security-Password-Generator/
+LIVE PAGE: https://davidsjg.github.io/High-Security-Password-Generator-JGD/
