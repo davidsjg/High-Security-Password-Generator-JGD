@@ -27,3 +27,5 @@ Conditional statements for all possible combinations.
 }
 
 LIVE PAGE: https://davidsjg.github.io/High-Security-Password-Generator-JGD/
+
+![](Screenshot1.png)
